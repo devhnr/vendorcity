@@ -1,0 +1,4 @@
+striper login detail 23-07-2024
+
+user : hello@vendorscity.com
+pass : Billing@VC24
